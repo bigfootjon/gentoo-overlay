@@ -1,6 +1,8 @@
 # Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
+# https://github.com/Chemrat/overlay/tree/master/x11-misc/ulauncher
+
 EAPI=7
 
 PYTHON_COMPAT=( python3_{8,9,10,11} )

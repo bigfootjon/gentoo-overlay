@@ -2,6 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 
 # Copyright 2019 Rabenda
+# https://github.com/microcai/gentoo-zh/tree/master/dev-util/jetbrains-toolbox
 
 EAPI=6
 
